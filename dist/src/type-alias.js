@@ -1,2 +1,0 @@
-// MULTIPLE USES AND MORE ATTRIBUTES
-export {};
